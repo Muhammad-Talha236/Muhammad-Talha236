@@ -41,7 +41,11 @@ Building the future, one <b>commit</b> at a time.
 # 👨‍💻 About Me
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
 </p>
 
 <table>
@@ -161,8 +165,6 @@ Building the future, one <b>commit</b> at a time.
 <p align="center">
 
 <img width="42%" src="./profile/top-langs.svg"/>
-
-<img width="56%" src="https://github-profile-trophy.vercel.app/?username=Muhammad-Talha236&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
