@@ -190,7 +190,6 @@ Building the future, one <b>commit</b> at a time.
 
 </p>
 
-> **Note:** Snake animation automatically update hogi jab GitHub Action setup hogi.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
