@@ -35,7 +35,7 @@ Building the future, one <b>commit</b> at a time.
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 # 👨‍💻 About Me
@@ -98,7 +98,7 @@ Building the future, one <b>commit</b> at a time.
 </table>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 # 🛠 Tech Stack
@@ -140,7 +140,7 @@ Building the future, one <b>commit</b> at a time.
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 <!-- ===================================================== -->
 <!--                 GITHUB ANALYTICS                      -->
@@ -150,7 +150,7 @@ Building the future, one <b>commit</b> at a time.
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Talha236&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true"/>
+<img width="49%" src="./profile/stats.svg"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Muhammad-Talha236&theme=tokyonight&hide_border=true&border_radius=15"/>
 
@@ -160,14 +160,14 @@ Building the future, one <b>commit</b> at a time.
 
 <p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Talha236&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="42%" src="./profile/top-langs.svg"/>
 
 <img width="56%" src="https://github-profile-trophy.vercel.app/?username=Muhammad-Talha236&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 # 📈 Contribution Graph
@@ -179,7 +179,7 @@ Building the future, one <b>commit</b> at a time.
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 # 🐍 Contribution Snake
@@ -192,7 +192,7 @@ Building the future, one <b>commit</b> at a time.
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 <!-- ===================================================== -->
 <!--                FEATURED PROJECTS                      -->
@@ -297,7 +297,7 @@ Building the future, one <b>commit</b> at a time.
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 # 🎯 Current Goals
@@ -311,13 +311,14 @@ Building the future, one <b>commit</b> at a time.
 - 💼 Land a High-Paying Software Engineering Role
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
-# Github History
+# Github History 
+
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 <p align="center">
@@ -327,7 +328,7 @@ Building the future, one <b>commit</b> at a time.
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 <!-- ===================================================== -->
@@ -361,7 +362,7 @@ Building the future, one <b>commit</b> at a time.
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 # 🎵 Currently Coding To
@@ -371,8 +372,9 @@ Building the future, one <b>commit</b> at a time.
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ipc3b7nc2y3obf7pgbxsgbdyj4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f"/>
 </a>
 </p>
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 # 💻 Daily Motivation
@@ -384,7 +386,7 @@ Building the future, one <b>commit</b> at a time.
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 # 📈 Visitor Counter
@@ -401,6 +403,9 @@ Building the future, one <b>commit</b> at a time.
 <sub>Thanks for stopping by — every visit makes my day! 🚀</sub>
 </p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
+</p>
 
 # ☕ Support Me
 
@@ -421,7 +426,7 @@ If you like my work, consider buying me a coffee — it keeps the commits flowin
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 # 🏆 Coding Philosophy
@@ -437,7 +442,7 @@ while(alive)
 ```
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 # 💡 Favorite Quote
@@ -452,7 +457,7 @@ while(alive)
 </blockquote>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 # ⚡ Fun Fact
@@ -472,7 +477,7 @@ where you are *also* the criminal 😅
 </table>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 <p align="center">
@@ -482,7 +487,7 @@ where you are *also* the criminal 😅
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 <p align="center">
