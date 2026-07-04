@@ -314,33 +314,7 @@ Building the future, one <b>commit</b> at a time.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 </p>
 
-# 📅 2026 Roadmap
-
-✅ HTML & CSS
-
-✅ JavaScript
-
-✅ React.js
-
-✅ Node.js
-
-✅ Express.js
-
-✅ MongoDB
-
-✅ PostgreSQL
-
-🔄 Docker
-
-🔄 System Design
-
-🔄 AWS
-
-🔄 Kubernetes
-
-🔄 AI Engineering
-
-🔄 Machine Learning
+# Github History
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
@@ -416,12 +390,17 @@ Building the future, one <b>commit</b> at a time.
 # 📈 Visitor Counter
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Muhammad-Talha236&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Talha236&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge&labelColor=0f172a"/>
 </p>
+
+<p align="center">
+<sub>Thanks for stopping by — every visit makes my day! 🚀</sub>
+</p>
+
 
 # ☕ Support Me
 
