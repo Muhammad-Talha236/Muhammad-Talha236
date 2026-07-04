@@ -393,13 +393,10 @@ Building the future, one <b>commit</b> at a time.
 # 🎵 Currently Coding To
 
 <p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ipc3b7nc2y3obf7pgbxsgbdyj4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f"/>
-
+<a href="https://github.com/kittinan/spotify-github-profile">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ipc3b7nc2y3obf7pgbxsgbdyj4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f"/>
+</a>
 </p>
-
-> Replace the Spotify UID with your own.
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 </p>
