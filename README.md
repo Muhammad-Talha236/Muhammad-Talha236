@@ -394,7 +394,7 @@ Building the future, one <b>commit</b> at a time.
 
 <p align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31i6xxxxxxxxxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ipc3b7nc2y3obf7pgbxsgbdyj4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f"/>
 
 </p>
 
