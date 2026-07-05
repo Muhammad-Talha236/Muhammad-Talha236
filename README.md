@@ -39,68 +39,42 @@ Building the future, one <b>commit</b> at a time.
 </p>
 
 # 👨‍💻 About Me
-
+ 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Muhammad+Talha;MERN+Stack+Developer;Python+Developer;AI+Engineering+Learner"/>
 </p>
-
+<p align="center">
+<img src="https://img.shields.io/badge/📍-Pakistan-3b82f6?style=flat-square"/>
+</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="300"/>
+</p>
+<table>
+<tr>
+<td width="55%" valign="middle">
+  
+### 👋 Hi, I'm Talha!
+ 
+I'm a Computer Science student who loves turning ideas into real, working products — from clean backend logic to smooth, user-friendly interfaces. Right now I'm deep into the MERN stack and Python, while steadily leveling up toward AI Engineering and system design. I enjoy the process as much as the outcome: reading docs, breaking things, fixing them, and shipping something better each time.
+ 
+</td>
+<td width="45%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300"/>
+</td>
+</tr>
+</table>
+<p align="center">
+<img src="https://img.shields.io/badge/💻-Full_Stack_Developer_(MERN)-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐍-Python_Developer-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖-AI_Engineering_Learner-1e293b?style=for-the-badge"/>
 </p>
 
-<table>
-
-<tr>
-
-<td width="35%" align="center">
-
-<img src="YOUR_PROFILE_IMAGE_LINK" width="240"/>
-
-</td>
-
-<td width="65%">
-
-```console
-> Developer Mode : ON
-
-✓ Learning new things everyday...
-✓ Building projects...
-✓ Solving real world problems...
-✓ Making a difference...
-```
-
-### 👋 Hi There!
-
-💻 Full Stack Developer (MERN Stack)
-
-🐍 Python Developer
-
-🤖 AI Engineering Learner
-
-🌍 Building modern web applications
-
-🚀 Goal: Become a World-Class Software Engineer
-
-📍 Pakistan
-
-### 🌱 Currently Learning
-
-- Advanced Python
-- PostgreSQL
-- Docker
-- AI Engineering
-- System Design
-
 ### ⚡ Fun Fact
-
+ 
 > I love turning coffee ☕ into code.
-
-</td>
-
-</tr>
-
-</table>
-
+ 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
@@ -341,24 +315,24 @@ Building the future, one <b>commit</b> at a time.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/muhammad-talha-7439122b7/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"/>
 </a>
 
-<a href="https://github.com/Muhammad-Talha236">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Muhammad-Talha236" target="blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="blank"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:mtalha.mt236@gmail.com" target="blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="blank"/>
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://twitter.com/YOUR_USERNAME" target="blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" target="blank"/>
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/_mian.talha_/" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"/>
 </a>
 
 </p>
