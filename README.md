@@ -391,11 +391,11 @@ If you like my work, consider buying me a coffee — it keeps the commits flowin
 
 <p align="center">
 
-<a href="https://buymeacoffee.com/YOUR_USERNAME">
+<a href="https://buymeacoffee.com/">
 <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
 &nbsp;
-<a href="https://ko-fi.com/YOUR_USERNAME">
+<a href="https://ko-fi.com/">
 <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
 </a>
 
