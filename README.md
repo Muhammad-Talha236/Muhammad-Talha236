@@ -184,25 +184,25 @@ I'm a Computer Science student who loves turning ideas into real, working produc
 
 ### 🛒&nbsp; Product Store
 
-<p>A complete Full Stack MERN application with authentication and admin dashboard.</p>
+<p>A complete Full Stack PERN application.</p>
 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens"/>
 
-<a href="https://github.com/Muhammad-Talha236/product-store"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-&nbsp;⭐ 24 &nbsp;🍴 12
+<a href="https://github.com/Muhammad-Talha236/Product_Store"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
 
 </td>
 
 <td width="33%" valign="top">
 
-### 💬&nbsp; Realtime Chat App
+### 💬&nbsp; Smart Campus AI
 
-<p>Modern realtime chat application using Socket.io.</p>
+<p>Modern realtime AI Campus Agent</p>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<a href="https://github.com/Muhammad-Talha236/chat-app"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-&nbsp;⭐ 18 &nbsp;🍴 7
+<a href="https://github.com/Muhammad-Talha236/Smart_Campus_AI"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
 
 </td>
 
@@ -214,8 +214,8 @@ I'm a Computer Science student who loves turning ideas into real, working produc
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 
-<a href="https://github.com/Muhammad-Talha236/expense-tracker"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-&nbsp;⭐ 14 &nbsp;🍴 6
+<a href="https://github.com/Muhammad-Talha236/Split_Nest"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
 
 </td>
 
@@ -225,14 +225,14 @@ I'm a Computer Science student who loves turning ideas into real, working produc
 
 <td width="33%" valign="top">
 
-### 🤖&nbsp; AI Chatbot
+### 🤖&nbsp; Event Manager(Eventra_)
 
-<p>LLM powered AI chatbot/assistant with context memory, built using OpenAI APIs.</p>
+<p>A Full Stack Application for Managing Event</p>
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
-<a href="https://github.com/Muhammad-Talha236/ai-chatbot"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-&nbsp;⭐ 21 &nbsp;🍴 6
+<a href="https://github.com/Muhammad-Talha236/Eventra_"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
 
 </td>
 
@@ -244,21 +244,21 @@ I'm a Computer Science student who loves turning ideas into real, working produc
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=fastapi&logoColor=white"/>
 
-<a href="https://github.com/Muhammad-Talha236/weather-app"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-&nbsp;⭐ 21 &nbsp;🍴 4
+<a href="https://github.com/Muhammad-Talha236/weather_app"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🌐&nbsp; Portfolio Website
+### 🌐&nbsp; Core Banking System
 
-<p>Modern personal portfolio built with React, TailwindCSS & Framer Motion.</p>
+<p>DataBase Project, Handling Core fundamentals of Bank</p>
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/>
 
-<a href="https://github.com/Muhammad-Talha236/portfolio"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-&nbsp;⭐ 11 &nbsp;🍴 5
+<a href="https://github.com/Muhammad-Talha236/Data_Base_Project-CBS-"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
 
 </td>
 
