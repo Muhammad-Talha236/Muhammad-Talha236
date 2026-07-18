@@ -128,9 +128,9 @@ I'm a Computer Science student who loves turning ideas into real, working produc
 
 <p align="center">
 
-<img width="49%" src="./profile/stats.svg"/>
+  <img width="49%" src="./profile/stats.svg"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Muhammad-Talha236&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Muhammad-Talha236&theme=tokyonight&hide_border=true&border_radius=15&v=2"/>
 
 </p>
 
@@ -138,12 +138,12 @@ I'm a Computer Science student who loves turning ideas into real, working produc
 
 <p align="center">
 
-<img width="42%" src="./profile/top-langs.svg"/>
+  <img width="42%" src="./profile/top-langs.svg"/>
 
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%"/>
 </p>
 
 # 📈 Contribution Graph
