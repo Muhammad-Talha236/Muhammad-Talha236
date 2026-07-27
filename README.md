@@ -181,20 +181,32 @@ I enjoy the process as much as the outcome: reading docs, breaking things, fixin
 <!--                 GITHUB ANALYTICS                      -->
 <!-- ===================================================== -->
 
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Talha236&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Muhammad-Talha236&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+    width="49%"
+  />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Talha236&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img
+    src="https://streak-stats.demolab.com?user=Muhammad-Talha236&theme=tokyonight&hide_border=true&border_radius=15"
+    alt="GitHub Streak"
+    width="70%"
+  />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:a855f7&height=3&section=header" width="100%" />
-</p>
+<!-- ============================================================= -->
 
 <!-- ===================================================== -->
 <!--                 CONTRIBUTION GRAPH                    -->
